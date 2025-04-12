@@ -466,3 +466,12 @@
     background-color: #f7ca00;
 }
 ```
+
+### OUTPUT
+
+![Screenshot 2025-04-12 100227](https://github.com/user-attachments/assets/43f09cb4-04c3-4778-a6c1-b5ed6d21e300)
+![Screenshot 2025-04-12 100244](https://github.com/user-attachments/assets/5a450c22-4a6c-44ab-8431-a319f321ffb9)
+![Screenshot 2025-04-12 100257](https://github.com/user-attachments/assets/76fb1ecc-019e-43dd-901a-2140cdeea503)
+
+
+
